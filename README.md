@@ -3,40 +3,38 @@ Seurat code for manuscript "Evaluating cell-specific gene expression using singl
 
 Seurat scripts:
 
-#SoupX and load samples
+* SoupX and load samples
 SoupX_and_read_Seurat.R
 
-############QC and filtering#######
-
-*QC calculation 
+* QC calculation 
 QCcalculation.R
 
-*Filtering cells
+* Filtering cells
 Filtering cells.R
 
-*Removing MALAT
+* Removing MALAT
 removing malat.R
 
-*Merge samples  
+* Merge samples  
 merge samples.R
 
-*Dimensionality reduction and integration  
+* Dimensionality reduction and integration  
 dimensionality reduction and integration.R
 
-*reclustering after removing low quality clusters  
+* reclustering after removing low quality clusters  
 reclustering_and_integration.R
 
-*Manual annotation
+* Manual annotation
 marker_gene_analysis_clusters.R
 
-*label celltypes 
+* label celltypes 
 label celltypes.R
 
-*Azimuth annotation 
+* Azimuth annotation 
 Azimuth.R
 
 * HPAP annotation
 celltype annotation HPAP
 
-*Identification of cell type specific marker genes
+* Identification of cell type specific marker genes
 Marker_gene_analysis_cell_types.R
