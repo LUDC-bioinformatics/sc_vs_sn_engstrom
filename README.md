@@ -6,7 +6,7 @@ Seurat scripts:
 * SoupX and load samples
 SoupX_and_read_Seurat.R
 
-* QC calculation 
+* QC calculation
 QCcalculation.R
 
 * Filtering cells
