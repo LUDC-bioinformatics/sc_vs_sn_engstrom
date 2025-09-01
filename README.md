@@ -4,11 +4,12 @@ Seurat code for manuscript "Evaluating cell-specific gene expression using singl
 Seurat scripts:
 
 #SoupX and load samples
-SoupX_and_read_Seurat
+SoupX_and_read_Seurat.R
 
 ############QC and filtering#######
+
 *QC calculation 
-QCcalculation.R"
+QCcalculation.R
 
 *Filtering cells
 Filtering cells.R
